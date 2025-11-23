@@ -1,0 +1,9 @@
+number of horizontal critical edges 3
+B to D
+B to F
+D to F
+
+number of vertical critical edges 1
+A to B
+
+minimum floorplan area 5600

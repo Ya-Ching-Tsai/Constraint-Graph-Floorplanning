@@ -1,0 +1,15 @@
+number of modules : 6
+
+module dimension 
+module A : (50,30)
+module B : (30,70)
+module C : (20,70)
+module D : (60,20)
+module E : (60,30)
+module F : (60,50)
+
+number of edges in HCG : 10
+A to E , A to F , B to C , B to D , B to E , B to F , C to D , C to E , C to F , D to F
+
+number of edges in VCG : 7
+A to B , A to C , A to D , A to F , E to C , E to D , E to F

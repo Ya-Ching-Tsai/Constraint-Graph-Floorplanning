@@ -1,0 +1,12 @@
+number of horizontal critical edges 3
+A to B
+A to C
+B to C
+
+number of vertical critical edges 4
+A to D
+C to D
+E to A
+E to D
+
+minimum floorplan area 2000

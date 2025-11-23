@@ -1,0 +1,24 @@
+number of modules : 15
+
+module dimension 
+module A : (30,30)
+module B : (30,20)
+module C : (30,20)
+module D : (40,90)
+module E : (40,30)
+module F : (40,30)
+module G : (40,80)
+module H : (40,50)
+module I : (40,30)
+module J : (90,40)
+module K : (40,30)
+module L : (40,20)
+module M : (30,50)
+module N : (40,40)
+module O : (20,30)
+
+number of edges in HCG : 66
+A to B , A to D , A to E , A to F , A to G , A to H , A to K , A to L , A to N , A to O , B to D , B to E , B to F , B to G , B to H , B to K , B to L , B to N , B to O , C to D , C to E , C to F , C to G , C to H , C to K , C to L , C to N , C to O , D to E , D to F , D to G , D to H , D to K , D to N , E to G , F to G , I to E , I to F , I to G , I to H , I to K , I to L , I to N , I to O , J to G , J to H , J to K , J to O , L to G , L to H , L to K , M to D , M to E , M to F , M to G , M to H , M to I , M to K , M to L , M to N , M to O , N to G , N to H , O to G , O to H , O to K
+
+number of edges in VCG : 65
+A to J , A to K , A to O , B to J , B to K , B to O , C to A , C to B , C to E , C to J , C to K , C to O , D to J , D to K , D to O , E to J , E to K , E to O , F to E , F to J , F to K , F to O , G to K , G to O , H to E , H to F , H to G , H to J , H to K , H to O , I to A , I to B , I to C , I to D , I to E , I to F , I to G , I to J , I to K , I to O , L to A , L to B , L to C , L to D , L to E , L to F , L to G , L to J , L to K , L to N , L to O , M to A , M to B , M to C , M to E , M to F , M to G , M to J , M to K , M to O , N to E , N to F , N to J , N to K , N to O
